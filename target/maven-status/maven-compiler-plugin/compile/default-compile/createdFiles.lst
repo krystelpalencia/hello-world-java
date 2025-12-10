@@ -1,2 +1,2 @@
-com\example\Application.class
-com\example\HelloWorldController.class
+com\example\hello\Application.class
+com\example\hello\HelloWorldController.class
